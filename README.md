@@ -20,25 +20,23 @@ See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-<div style="text-align: center">
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![CC0 1.0 Universal][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-</div>
 
 <!-- PROJECT LOGO -->
 
-<div style="text-align: center">
+<div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3>Best-README-Template</h3>
+  <h3 align="center">Best-README-Template</h3>
 
-  <p>
+  <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">
@@ -114,7 +112,7 @@ Use the `BLANK_README.md` to get started.
 **Update the license to match your intended project license. THIS repo is fully dedicated to the public domain, but your
 project probably isn't.**
 
-<p style="text-align: center">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
@@ -131,7 +129,7 @@ few examples.
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 [![JQuery][JQuery.com]][JQuery-url]
 
-<p style="text-align: center">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -183,7 +181,7 @@ or services._
    git remote -v # confirm the changes
    ```
 
-<p style="text-align: center">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 
@@ -195,7 +193,7 @@ to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p style="text-align: center">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 
@@ -212,7 +210,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues)
 for a full list of proposed features (and known issues).
 
-<p style="text-align: center">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -244,7 +242,7 @@ Have a question? Ask in the [FAQ discussion thread](https://github.com/othneildr
   />
 </a>
 
-<p style="text-align: center">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
@@ -254,7 +252,7 @@ This project is dedicated to the public domain under the CC0 1.0 Universal licen
 
 **IMPORTANT**: Update the license to match your intended project license.
 
-<p style="text-align: center">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 
@@ -264,7 +262,7 @@ Othneil Drew
 📧 [Linked In](https://linkedin.com/in/othneildrew)  
 Project Link: <https://github.com/othneildrew/Best-README-Template>
 
-<p style="text-align: center">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 
@@ -282,7 +280,7 @@ to. I've included a few of my favorites to kick things off!
 - [Font Awesome](https://fontawesome.com)
 - [React Icons](https://react-icons.github.io/react-icons/search)
 
-<p style="text-align: center">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
