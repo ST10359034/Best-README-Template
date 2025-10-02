@@ -229,6 +229,10 @@ create a pull request. You can also simply open an issue with the tag
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+I've also outlined some [contribution guidelines and overall project direction](https://github.com/othneildrew/Best-README-Template/discussions/160) you may follow.
+
+Have a question? Ask in the [FAQ discussion thread](https://github.com/othneildrew/Best-README-Template/discussions/159).
+
 ### Top contributors
 
 <a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
@@ -254,10 +258,9 @@ This project is dedicated to the public domain under the CC0 1.0 Universal licen
 
 ## Contact
 
-Your Name  
-𝕏[@your_twitter](https://twitter.com/your_username)  
-📧[email@example.com](mailto:email@example.com)  
-Project Link: <https://github.com/your_username/repo_name>
+Othneil Drew  
+📧 [Linked In](https://linkedin.com/in/othneildrew)  
+Project Link: <https://github.com/othneildrew/Best-README-Template>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

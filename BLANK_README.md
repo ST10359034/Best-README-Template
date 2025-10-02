@@ -225,8 +225,8 @@ Distributed under the project_license. See `LICENSE.txt` for more information.
 ## Contact
 
 Your Name  
-𝕏[@your_twitter](https://twitter.com/your_username)  
-📧[email@example.com](mailto:email@example.com)  
+𝕏 [@your_twitter](https://twitter.com/your_username)  
+📧 [email@example.com](mailto:email@example.com)  
 Project Link: <https://github.com/your_username/repo_name>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
