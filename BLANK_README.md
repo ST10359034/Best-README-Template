@@ -20,24 +20,26 @@ See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
+<div style="text-align: center">
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![project_license][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+</div>
 
 <!-- PROJECT LOGO -->
 
 <br />
-<div align="center">
+<div style="text-align: center">
   <a href="https://github.com/github_username/repo_name">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3>project_title</h3>
 
-  <p align="center">
+  <p>
     project_description
     <br />
     <a href="https://github.com/github_username/repo_name">
@@ -97,7 +99,7 @@ search and replace with your text editor for the following: `github_username`,
 `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`,
 `project_title`, `project_description`, `project_license`
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p style="text-align: center">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
@@ -110,7 +112,7 @@ search and replace with your text editor for the following: `github_username`,
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 [![JQuery][JQuery.com]][JQuery-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p style="text-align: center">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -158,7 +160,7 @@ to install them.
    git remote -v # confirm the changes
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p style="text-align: center">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 
@@ -170,7 +172,7 @@ to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p style="text-align: center">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 
@@ -184,7 +186,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 See the [open issues](https://github.com/github_username/repo_name/issues) for
 a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p style="text-align: center">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -203,7 +205,7 @@ create a pull request. You can also simply open an issue with the tag
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p style="text-align: center">(<a href="#readme-top">back to top</a>)</p>
 
 ### Top contributors
 
@@ -218,7 +220,7 @@ create a pull request. You can also simply open an issue with the tag
 
 Distributed under the project_license. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p style="text-align: center">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 
@@ -229,7 +231,7 @@ Your Name
 📧 [email@example.com](mailto:email@example.com)  
 Project Link: <https://github.com/your_username/repo_name>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p style="text-align: center">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 
@@ -239,7 +241,7 @@ Project Link: <https://github.com/your_username/repo_name>
 - []()
 - []()
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p style="text-align: center">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
