@@ -197,7 +197,9 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the project_license. See `LICENSE.txt` for more information.
+This project is dedicated to the public domain under the CC0 1.0 Universal license. See `LICENSE.txt` for more information.
+
+**IMPORTANT**: Update the license to match your project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
